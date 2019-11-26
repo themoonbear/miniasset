@@ -1,2 +1,0 @@
-# miniasset
-Begin app

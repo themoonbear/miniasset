@@ -1,0 +1,14 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "A simple Begin app with the minimum necessary file structure",
+  "scripts": {
+    "lint": "# Your linter would go here",
+    "build": "# Your build tools or scripts would go here ",
+    "test": "# Don't forget to write some tests!",
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^1.4.16"
+  }
+}
