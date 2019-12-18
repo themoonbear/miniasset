@@ -26,6 +26,8 @@
 
 ## 特效资源
 
++ [EffectHub](http://www.effecthub.com/home)
+
 ## 着色器资源
 
 ## 动画资源
@@ -35,6 +37,7 @@
 + [Soundimage.org](https://soundimage.org/)
 + [FREE TO USE SOUNDS](https://www.freetousesounds.com/)
 + [効果音ラボ](https://soundeffect-lab.info/sound/voice/line-girl1.html)
++ [小森平的免費音效](https://taira-komori.jpn.org/instrument01tw.html)
 
 ## 字体资源
 
@@ -45,3 +48,4 @@
 + [InspirationGrid](https://theinspirationgrid.com/)
 + [The VG Resource](https://www.vg-resource.com/)
 + [opengameart.org](https://opengameart.org/)
++ [爱给](http://www.aigei.com/)
