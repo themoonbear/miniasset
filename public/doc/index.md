@@ -38,6 +38,7 @@
 + [FREE TO USE SOUNDS](https://www.freetousesounds.com/)
 + [効果音ラボ](https://soundeffect-lab.info/sound/voice/line-girl1.html)
 + [小森平的免費音效](https://taira-komori.jpn.org/instrument01tw.html)
++ [ecrett AI音乐](https://ecrettmusic.com)
 
 ## 字体资源
 
