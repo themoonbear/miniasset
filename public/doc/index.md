@@ -1,3 +1,9 @@
+## 色彩搭配
+
++ [Adobe Color](https://color.adobe.com/create)
++ [Color Drop](https://www.colordrop.io)
++ [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors)
+
 ## 图标资源
 
 + [REMIX ICON](https://remixicon.com/)
@@ -39,6 +45,14 @@
 + [効果音ラボ](https://soundeffect-lab.info/sound/voice/line-girl1.html)
 + [小森平的免費音效](https://taira-komori.jpn.org/instrument01tw.html)
 + [ecrett AI音乐](https://ecrettmusic.com)
++ [freepd.com](https://freepd.com)
++ [耳聆网](https://www.ear0.com)
++ [淘声网](https://www.tosound.com)
++ [Free Sound](https://freesound.org)
++ [Free Soundjay](https://www.soundjay.com)
++ [Free SFX](https://www.freesfx.co.uk)
++ [Free SFX](https://www.freesfx.co.uk)
++ [Audition DLC](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html)
 
 ## 字体资源
 
