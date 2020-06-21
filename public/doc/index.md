@@ -59,6 +59,7 @@
 ## 字体资源
 
 + [Game Font Database](http://www.thealmightyguru.com/GameFonts/Index.html)
++ [www.dafont.com](https://www.dafont.com)
 
 ## 综合资源
 
