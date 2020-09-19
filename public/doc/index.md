@@ -30,6 +30,7 @@
 + [Sketchfab](https://sketchfab.com/)
 + [mixamo](https://www.mixamo.com)
 + [kenney](https://www.kenney.nl/assets)
++ [quaternius](http://quaternius.com)
 
 ## 特效资源
 
@@ -51,7 +52,6 @@
 + [淘声网](https://www.tosound.com)
 + [Free Sound](https://freesound.org)
 + [Free Soundjay](https://www.soundjay.com)
-+ [Free SFX](https://www.freesfx.co.uk)
 + [Free SFX](https://www.freesfx.co.uk)
 + [Audition DLC](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html)
 + [Leshy SFMaker](https://www.leshylabs.com/apps/sfMaker/)
